@@ -1,0 +1,83 @@
+.DashContainer {
+  margin-left: 14%;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+  width: 86%;
+  height: auto;
+}
+
+.AmountEarn {
+  width: 20%;
+  height: 22vh;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 13px;
+  margin-top: 2%;
+  margin-right: 2%;
+  float: left;
+  padding-top: 10px;
+}
+
+.OrdersComp {
+  width: 20%;
+  height: 22vh;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 13px;
+  margin-top: 2%;
+  float: left;
+  padding-top: 10px;
+}
+
+.TextComp {
+  line-height: 230%;
+}
+
+.ActiveBoost {
+  width: 98%;
+  height: 48vh;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 14px;
+  margin-top: 2%;
+  float: left;
+  padding-top: 10px;
+  padding-left: 1%;
+}
+
+.OrderProc {
+  width: 98%;
+  height: 48vh;
+  border-radius: 14px;
+  margin-top: 1%;
+  float: left;
+  padding-top: 10px;
+}
+
+.ExtraInfo {
+  margin-top: 2.5%;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-bottom-left-radius: 13px;
+  border-bottom-right-radius: 13px;
+  background-color: rgba(255, 255, 255, 0.05);
+  height: 30%;
+  overflow: hidden;
+  font-size: 12px;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 2.5%;
+}
+
+.MoneyEarn {
+  font-size: 55px;
+  padding-left: 5%;
+  font-weight: 700;
+  height: 50%;
+  background: linear-gradient(90deg, #1fd95e 0%, #4ed47e 40%, #5893e8 100%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.OrderDone {
+  font-size: 55px;
+  padding-left: 5%;
+  font-weight: 700;
+  height: 50%;
+}

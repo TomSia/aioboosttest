@@ -1,0 +1,62 @@
+.ABoostCon {
+  margin-top: 1%;
+  margin-left: 1%;
+  width: 95%;
+  height: 78%;
+}
+
+.ABoostBox {
+  background-image: url("./../../images/tftbackground.png");
+  background-size: cover;
+  border: 0.5px solid rgba(255, 255, 255, 0.1);
+  width: 350px;
+  height: 100%;
+  border-radius: 14px;
+  text-align: center;
+  color: white;
+}
+
+.ABTitle {
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 1%;
+}
+
+.ProgText {
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 2%;
+}
+
+.CostText {
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 27px;
+  border: 1px solid rgba(255, 255, 255, 0);
+  background-color: rgba(255, 255, 255, 0.1);
+  width: 100px;
+  height: 40px;
+  text-align: center;
+  line-height: 220%;
+  margin: auto;
+}
+
+.ProgBar {
+  margin-top: 2%;
+  margin-bottom: 4%;
+  margin-left: 7.5%;
+  width: 85%;
+  height: 17px;
+  border-radius: 60px;
+  background: linear-gradient(
+    90deg,
+    #1fd95e 0%,
+    #4ed47e 20%,
+    #5893e8 63%,
+    rgba(0, 2, 18, 1) 63%
+  );
+}
+
+.BoostID {
+  margin-top: 12%;
+}
